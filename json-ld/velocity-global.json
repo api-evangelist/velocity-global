@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://hellopebl.com/",
+  "name": "Velocity Global (Pebl)",
+  "alternateName": "Pebl",
+  "description": "Velocity Global (now Pebl) is a global employment and Employer of Record (EOR) platform with REST APIs for international hiring, managing employee records, payroll processing, and compliance management across 185+ countries.",
+  "url": "https://hellopebl.com/",
+  "logo": "https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg",
+  "sameAs": [
+    "https://velocityglobal.com",
+    "https://www.linkedin.com/company/velocity-global-llc",
+    "https://twitter.com/velocity_global",
+    "https://github.com/velocity-global"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "url": "https://help.hellopebl.com/"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Velocity Global API Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Velocity Global API",
+        "description": "REST API for managing global employment operations including international hiring, employee records, payroll processing, benefits administration, onboarding, offboarding, and compliance management across 185+ countries.",
+        "url": "https://help.hellopebl.com/"
+      }
+    ]
+  },
+  "subjectOf": [
+    {
+      "@type": "WebSite",
+      "name": "Pebl Blog",
+      "url": "https://hellopebl.com/resources/blog/"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Pebl Pricing",
+      "url": "https://hellopebl.com/pricing"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Status Page",
+      "url": "https://status.hellopebl.com/"
+    }
+  ],
+  "keywords": [
+    "EOR",
+    "Employer of Record",
+    "Global Employment",
+    "HR",
+    "Payroll",
+    "Compliance",
+    "International Hiring",
+    "Workforce Management"
+  ]
+}
