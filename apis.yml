@@ -1,0 +1,71 @@
+aid: velocity-global
+name: Velocity Global
+description: >-
+  Velocity Global (now Pebl) is a global employment and Employer of Record (EOR)
+  platform with REST APIs for international hiring, managing employee records,
+  payroll processing, and compliance management across 185+ countries. The
+  platform enables organizations to onboard global employees, process payroll,
+  administer benefits, and maintain local labor law compliance without
+  establishing local entities.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/velocity-global/refs/heads/main/apis.yml
+created: "2026-06-13"
+modified: "2026-06-13"
+specificationVersion: "0.19"
+tags:
+  - EOR
+  - Employer of Record
+  - Global Employment
+  - HR
+  - Payroll
+  - Compliance
+  - International Hiring
+  - Workforce Management
+apis:
+  - aid: velocity-global:velocity-global-api
+    name: Velocity Global API
+    description: >-
+      REST API for managing global employment operations including international
+      hiring, employee records, payroll processing, benefits administration,
+      onboarding, offboarding, and compliance management across 185+ countries.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://velocityglobal.com
+    baseURL: https://api.velocityglobal.com
+    tags:
+      - EOR
+      - Employer of Record
+      - Global Employment
+      - HR
+      - Payroll
+      - Compliance
+    properties:
+      - type: Documentation
+        url: https://help.hellopebl.com/
+      - type: OpenAPI
+        url: https://velocityglobal.com/openapi
+common:
+  - type: Website
+    url: https://velocityglobal.com
+  - type: Documentation
+    url: https://help.hellopebl.com/
+  - type: GitHubOrg
+    url: https://github.com/velocity-global
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/velocity-global-llc
+  - type: Blog
+    url: https://hellopebl.com/resources/blog/
+  - type: Pricing
+    url: https://hellopebl.com/pricing
+  - type: StatusPage
+    url: https://status.hellopebl.com/
+  - type: X
+    url: https://twitter.com/velocity_global
+  - type: Plans
+    url: plans/velocity-global-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/velocity-global-rate-limits.yml
+  - type: FinOps
+    url: finops/velocity-global-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

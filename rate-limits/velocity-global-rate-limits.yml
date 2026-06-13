@@ -1,0 +1,43 @@
+name: Velocity Global API Rate Limits
+description: >-
+  Rate limit information for the Velocity Global (Pebl) REST API. Velocity
+  Global does not publicly document specific rate limit thresholds. As an
+  enterprise EOR platform serving global workforce operations, API access and
+  rate limits are typically defined in service agreements and enterprise
+  contracts. Contact Velocity Global/Pebl sales or support for specific rate
+  limit details applicable to your integration.
+url: https://help.hellopebl.com/
+created: "2026-06-13"
+modified: "2026-06-13"
+rateLimits:
+  - scope: API (General)
+    notes: >-
+      Specific rate limits are not publicly documented. Enterprise API
+      integrations are subject to rate limits defined in individual service
+      agreements. Organizations requiring high-volume API access should contact
+      Pebl (formerly Velocity Global) directly to discuss applicable limits and
+      enterprise API plans.
+    contact: support@hellopebl.com
+authentication:
+  - type: OAuth 2.0
+    notes: >-
+      The Velocity Global API uses OAuth 2.0 for authentication. Specific
+      details on OAuth flows, token lifetimes, and scopes are available through
+      the developer documentation or by contacting support.
+  - type: API Key
+    notes: >-
+      API key-based authentication may be available for certain integration
+      scenarios. Consult developer documentation for details.
+headers:
+  - name: Authorization
+    description: Bearer token for OAuth 2.0 authentication
+    example: "Authorization: Bearer {access_token}"
+errorCodes:
+  - code: 429
+    description: Too Many Requests — rate limit exceeded
+    notes: Retry after the interval specified in the Retry-After response header.
+bestPractices:
+  - Implement exponential backoff for 429 responses
+  - Cache API responses where appropriate to reduce request volume
+  - Use webhooks for event-driven integrations to minimize polling
+  - Contact Pebl support to understand rate limits applicable to your contract

@@ -1,0 +1,52 @@
+name: Velocity Global Plans and Pricing
+description: >-
+  Velocity Global (now Pebl) operates a modular, flat-rate pricing model for
+  its global Employer of Record (EOR) and workforce management platform. Pricing
+  is based on a per-employee monthly fee covering EOR services, compliance,
+  payroll, onboarding, and support. Specific pricing requires a custom quote
+  from the sales team.
+url: https://hellopebl.com/pricing
+created: "2026-06-13"
+modified: "2026-06-13"
+plans:
+  - name: EOR Platform (Base)
+    description: >-
+      Core global employment platform covering EOR services, in-country
+      compliance management, payroll processing, benefits administration,
+      onboarding, expense and leave management, and 24/7 customer support.
+    url: https://hellopebl.com/pricing
+    pricing:
+      model: per-seat
+      unit: per employee per month
+      promotional: "$399"
+      standard: "$599"
+      currency: USD
+      notes: >-
+        Promotional rate may apply. Standard rate is $599/month per employee.
+        Custom quotes required for enterprise and complex configurations.
+        All rates are billed monthly.
+    features:
+      - Global employment compliance across 185+ countries
+      - In-country payroll processing and tax filings
+      - Statutory benefits administration
+      - Locally compliant employment contracts
+      - Employee onboarding in as little as 48 hours
+      - Offboarding management
+      - Leave and expense management
+      - 24/7 customer support
+      - Alfie AI compliance assistant
+      - Real-time compliance insights
+      - Self-service employer portal
+      - Integration with HR, payroll, and finance tools (250+ integrations)
+    addOns:
+      - name: Visa and Immigration Support
+        pricing: "$100–$500 per employee depending on country"
+      - name: HR Strategy Consultations
+        pricing: "Approximately $1,000/month per country"
+      - name: Custom Payroll Setups
+        pricing: "$500–$1,500/month for complex configurations"
+notes: >-
+  Velocity Global rebranded to Pebl in 2026. All existing contracts, pricing,
+  and support arrangements are unchanged. Full employment costs (employer taxes,
+  statutory requirements) are disclosed before hire with no hidden markups.
+  Custom quotes required for final pricing configuration.

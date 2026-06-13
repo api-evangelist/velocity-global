@@ -1,0 +1,72 @@
+name: Velocity Global FinOps
+description: >-
+  Financial operations guidance for organizations using the Velocity Global
+  (Pebl) global employment and EOR platform. Covers cost structure, cost
+  optimization strategies, budgeting for international workforce expansion, and
+  API integration cost considerations.
+url: https://hellopebl.com/pricing
+created: "2026-06-13"
+modified: "2026-06-13"
+costStructure:
+  model: per-seat
+  billingCycle: monthly
+  baseRate:
+    promotional: "$399 per employee per month"
+    standard: "$599 per employee per month"
+    currency: USD
+  includedInBase:
+    - EOR services and legal compliance
+    - In-country payroll processing and tax filings
+    - Statutory benefits administration
+    - Locally compliant employment contracts
+    - Employee onboarding and offboarding
+    - Leave and expense management
+    - 24/7 customer support
+    - Alfie AI compliance assistant
+  additionalCosts:
+    - item: Employer taxes and statutory contributions
+      notes: >-
+        Disclosed before hire per country; not marked up by Velocity Global.
+        Varies significantly by country.
+    - item: Visa and immigration support
+      estimatedCost: "$100–$500 per employee per case"
+    - item: HR strategy consultations
+      estimatedCost: "~$1,000/month per country"
+    - item: Custom payroll setups
+      estimatedCost: "$500–$1,500/month for complex configurations"
+optimization:
+  strategies:
+    - description: >-
+        Request promotional pricing; Velocity Global has offered rates as low as
+        $399/month per employee for new customers.
+    - description: >-
+        Negotiate volume discounts for large headcounts (50+ employees) through
+        custom enterprise agreements.
+    - description: >-
+        Consolidate countries where possible to reduce per-country compliance
+        overhead costs.
+    - description: >-
+        Use self-service onboarding and the platform portal to minimize
+        professional services fees.
+    - description: >-
+        Leverage the 250+ native integrations to avoid custom integration costs;
+        use webhooks and the API for automating workflows instead of manual
+        processes.
+    - description: >-
+        Review statutory benefit costs by country before hiring to budget
+        accurately; these are passed through at cost without markups.
+budgeting:
+  notes: >-
+    A 50-employee global workforce using typical add-ons costs approximately
+    $26,450/month. Budget for employer tax obligations on top of the base EOR
+    fee, as these vary widely by country (e.g., France ~45%, Singapore ~17%).
+    Use Pebl's employee cost calculator at hellopebl.com/resources/ for
+    country-specific cost estimates before hiring.
+  costCalculator: https://hellopebl.com/resources/
+apiIntegrationCosts:
+  notes: >-
+    API access for integrating with Velocity Global is typically included in the
+    platform subscription. No separate API usage fees are publicly documented.
+    High-volume or custom API integrations may require enterprise agreement
+    terms. Contact support@hellopebl.com for details.
+  integrationDirectory: https://hellopebl.com/technology-integrations
