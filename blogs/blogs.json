@@ -51,5 +51,17 @@
       "date": "2026-04-21",
       "summary": "A compliance resource covering Tanzania's 2026 public holiday schedule and key employer obligations for international workforce management."
     }
-  ]
+  ],
+  "repo": "velocity-global",
+  "feeds": [
+    {
+      "source": "https://www.linkedin.com/company/velocity-global-llc",
+      "feed_url": "https://www.linkedin.com/company/velocity-global-llc",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-06-14T20:42:17Z"
 }
