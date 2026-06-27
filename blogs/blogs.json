@@ -1,67 +1,14 @@
 {
-  "provider": "velocity-global",
-  "blogURL": "https://hellopebl.com/resources/blog/",
-  "lastFetched": "2026-06-13",
-  "posts": [
-    {
-      "title": "Why Fragmented Systems Break Global Hiring",
-      "url": "https://hellopebl.com/resources/blog/why-fragmented-systems-break-global-hiring/",
-      "date": "2026-06-12",
-      "summary": "Global hiring failures stem from disconnected systems across recruiting, HR, payroll, and compliance. The article argues that companies should evaluate employment partners based on workflow integration with existing tools rather than centralizing into a single vendor. Connected employment infrastructure reduces coordination burdens and enables faster international expansion."
-    },
-    {
-      "title": "Pay Transparency: Raising the Standard for Fairness, Trust, and Accountability",
-      "url": "https://hellopebl.com/resources/blog/pay-transparency-raising-standard-fairness-trust-and-accountability/",
-      "date": "2026-06-05",
-      "summary": "The EU Pay Transparency Directive takes effect in June 2026, requiring organizations to include salary ranges in job postings and maintain documented compensation practices. Companies must view transparency as a trust-building mechanism rather than mere compliance. Many organizations currently lack the operational infrastructure to support consistent, transparent pay decisions across European markets."
-    },
-    {
-      "title": "Bringing Pebl's Brand Into the World",
-      "url": "https://hellopebl.com/resources/blog/bringing-pebls-brand-world/",
-      "date": "2026-05-29",
-      "summary": "Employee spotlight on Jenny Ackerman, Senior Manager of Creative at Pebl, who leads design efforts following the rebrand from Velocity Global. The article explores how thoughtful design helps translate Pebl's complex global hiring solutions into accessible, meaningful experiences. Ackerman leverages AI tools like Midjourney to expand the design process while shaping the company's visual identity."
-    },
-    {
-      "title": "Iraq Public Holidays: 2026 Payroll Guide For Employers",
-      "url": "https://hellopebl.com/resources/blog/iraq-public-holidays/",
-      "date": "2026-04-24",
-      "summary": "A compliance guide covering Iraq's public holiday schedule for 2026 and the payroll implications for employers with international workers in Iraq."
-    },
-    {
-      "title": "Haiti Public Holidays: 2026 Dates and Compliance Tips",
-      "url": "https://hellopebl.com/resources/blog/haiti-public-holidays/",
-      "date": "2026-04-24",
-      "summary": "A compliance resource covering Haiti's 2026 public holiday dates and employer obligations for payroll and workforce management."
-    },
-    {
-      "title": "Visa Sponsorship Cost: How EORs Help You Budget & Save",
-      "url": "https://hellopebl.com/resources/blog/eor-visa-sponsorship-cost/",
-      "date": "2026-04-22",
-      "summary": "An overview of how Employer of Record providers help companies manage and reduce costs associated with visa sponsorship for international employees."
-    },
-    {
-      "title": "Netherlands Public Holidays: Time Off, Pay & CAO Rules",
-      "url": "https://hellopebl.com/resources/blog/netherlands-public-holidays/",
-      "date": "2026-04-21",
-      "summary": "A guide to Netherlands public holidays and the associated CAO (collective labor agreement) rules governing time off and compensation for employers."
-    },
-    {
-      "title": "Tanzania Public Holidays: 2026 Dates, Compliance, and What Employers Need to Know",
-      "url": "https://hellopebl.com/resources/blog/tanzania-public-holidays/",
-      "date": "2026-04-21",
-      "summary": "A compliance resource covering Tanzania's 2026 public holiday schedule and key employer obligations for international workforce management."
-    }
-  ],
   "repo": "velocity-global",
   "feeds": [
     {
-      "source": "https://www.linkedin.com/company/velocity-global-llc",
-      "feed_url": "https://www.linkedin.com/company/velocity-global-llc",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "source": "https://hellopebl.com/resources/blog/",
+      "feed_url": "",
+      "saved": 3,
+      "method": "agent-scrape"
     }
   ],
-  "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 3,
+  "fetched": "2026-06-27T13:19:38Z",
+  "agent_pulled": "2026-06-27"
 }
