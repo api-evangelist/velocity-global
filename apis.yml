@@ -44,6 +44,10 @@ apis:
       - type: OpenAPI
         url: https://velocityglobal.com/openapi
 common:
+  - type: TrustCenter
+    url: security/velocity-global-trust-center.yml
+  - type: DomainSecurity
+    url: security/velocity-global-domain-security.yml
   - type: Website
     url: https://velocityglobal.com
   - type: Documentation
