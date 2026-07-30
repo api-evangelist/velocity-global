@@ -7,7 +7,19 @@ description: >-
   platform enables organizations to onboard global employees, process payroll,
   administer benefits, and maintain local labor law compliance without
   establishing local entities.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: approval
+  trial: false
+  try_now: false
+  public: false
+  label: Requires approval
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/velocity-global.png
 url: https://raw.githubusercontent.com/api-evangelist/velocity-global/refs/heads/main/apis.yml
 created: "2026-06-13"
 modified: "2026-06-13"
