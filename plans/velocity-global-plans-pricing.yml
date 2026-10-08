@@ -55,3 +55,16 @@ notes: >-
   and support arrangements are unchanged. Full employment costs (employer taxes,
   statutory requirements) are disclosed before hire with no hidden markups.
   Custom quotes required for final pricing configuration.
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - negotiated
+  units: []
+  plans:
+  - name: EOR Platform (Base)
+    access: other
+    model: negotiated
+    model_how: derived
+    units: []
+    periods: []
