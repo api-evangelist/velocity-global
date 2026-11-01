@@ -66,25 +66,104 @@
 
 Velocity Global (now Pebl) is a global employment and Employer of Record (EOR) platform with REST APIs for international hiring, managing employee records, payroll processing, and compliance management across 185+ countries. The platform enables organizations to onboard global employees, process payroll, administer benefits, and maintain local labor law compliance without establishing local entities.
 
-## Links
+**Areas:** Employer of Record · Global Employment · Human Resources · Payroll · Compliance · International Hiring · Workforce Management
 
-- **Website:** https://velocityglobal.com (redirects to https://hellopebl.com)
-- **Documentation:** https://help.hellopebl.com/
-- **Blog:** https://hellopebl.com/resources/blog/
-- **Pricing:** https://hellopebl.com/pricing
-- **Status Page:** https://status.hellopebl.com/
-- **Integrations:** https://hellopebl.com/technology-integrations
-- **LinkedIn:** https://www.linkedin.com/company/velocity-global-llc
-- **X:** https://twitter.com/velocity_global
+## Velocity Global on APIs.io
 
-## APIs
+Everything profiled for Velocity Global is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/velocity-global/](https://apis.io/providers/velocity-global/)** — or go straight to one of the APIs or properties below.
 
-- **Velocity Global API** — REST API for global employment operations including hiring, employee records, payroll, benefits, and compliance management.
+### APIs (1)
 
-## Note on Rebrand
+- [Velocity Global API](https://apis.io/apis/velocity-global/velocity-global-api/) — REST API for managing global employment operations including international hiring, employee records, payroll processing, benefits administration,…
 
-Velocity Global rebranded to **Pebl** in 2026. The platform, services, support, and pricing remain unchanged. All velocityglobal.com URLs redirect to hellopebl.com.
+### Published properties
 
----
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-*This APIs.json profile is maintained by [Kin Lane](mailto:kin@apievangelist.com) as part of the [API Evangelist](https://apievangelist.com) network.*
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Velocity Global Domain Security](https://apis.io/security/velocity-global/velocity-global-domain-security/)
+- [Velocity Global Trust Center](https://apis.io/security/velocity-global/velocity-global-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Velocity Global Plans Pricing](https://apis.io/plans/velocity-global/velocity-global-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Velocity Global Rate Limits](https://apis.io/rate-limits/velocity-global/velocity-global-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Velocity Global Finops](https://apis.io/finops/velocity-global/velocity-global-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://velocityglobal.com)
+- [Documentation](https://help.hellopebl.com/)
+- [Pricing](https://hellopebl.com/pricing)
+- [Blog](https://hellopebl.com/resources/blog/)
+- [Status](https://status.hellopebl.com/)
+
+## API Evangelist rating
+
+**Kin Score 21.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 24.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 23.7 |
+
+**Agent readiness 13.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.8** — Employment & Payroll
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/velocity-global/](https://apis.io/providers/velocity-global/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Velocity Global: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/velocity-global/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
